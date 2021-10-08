@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Buffalobu
+- 👀 I’m interested in c++ & Qt
+- 🌱 I’m currently learning data process algorithm
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: 1355123148@qq.com
